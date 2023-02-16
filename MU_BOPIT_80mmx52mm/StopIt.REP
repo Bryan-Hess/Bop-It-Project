@@ -1,0 +1,242 @@
+*************************************************************
+FileName = StopIt.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : StopIt.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : StopIt.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : StopIt.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : StopIt.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : StopIt.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : StopIt.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : StopIt.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : StopIt.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : StopIt.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D24
+    D25
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : StopIt.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D24
+    D25
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : StopIt.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D24
+    D25
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : StopIt.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D24
+    D25
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
